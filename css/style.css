@@ -163,27 +163,27 @@ input[type="button"] {
 }
 
 /* footer */
-footer {
+.footer-insta {
     margin: 50px 0 52px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-footer ul {
+.footer-insta ul {
     justify-content: center;
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 10px;
 }
 
-footer li {
+.footer-insta li {
     font-size: 12px;
     color: #737373;
     padding: 0px 4px 10px;
 }
 
-footer p {
+.footer-insta p {
     color: #737373;
     font-size: 12px;
 }
